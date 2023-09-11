@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: brown;
+    color: white;
+   text-align: center;
+}
+
+nav{
+    display: flex;
+}
+
+.nav_logo{
+    height: 50px;
+    width: 25%;
+    background-color: aqua;
+    color: yellowgreen;
+    text-align: center;
+}
+
+.nav_menu{
+    height: 50px;
+    width: 75%;
+    background-color: rgb(22, 122, 122);
+    color: white;
+    text-align: center;
+}
+
+
+/* section_strt_here */
+
+section{
+    display: flex;
+}
+.left_div{
+    height: 300px;
+    width: 20%;
+    background-color: rgb(252, 107, 11);
+    color: white;
+    text-align: center;
+}
+
+.middle_div{
+    height: 300px;
+    width: 60%;
+    background-color: rgb(29, 197, 14);
+    color: white;
+    text-align: center;
+}
+
+.middle_top{
+    height: 33%;
+    width: 100%;
+    background-color: rgb(37, 255, 56);
+    color: white;
+    text-align: center;
+}
+
+.middle_middle{
+    height: 33%;
+    width: 100%;
+    background-color: rgb(234, 79, 255);
+    color: white;
+    text-align: center;
+}
+
+.middle_buttom{
+    height: 34%;
+    width: 100%;
+    background-color: rgb(15, 184, 206);
+    color: white;
+    text-align: center;
+}
+
+
+
+
+.right_div{
+    height: 300px;
+    width: 20%;
+    background-color: rgb(69, 21, 145);
+    color: white;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    
+}
